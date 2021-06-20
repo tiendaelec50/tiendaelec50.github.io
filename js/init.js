@@ -8,11 +8,10 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-  apiKey: "AIzaSyDrTJcG8-Q9ME4KeIJ--emmQx4ucyCsihU",
-  authDomain: "bdfalu50.firebaseapp.com",
-  projectId: "bdfalu50",
-  storageBucket: "bdfalu50.appspot.com",
-  messagingSenderId: "380994475321",
-  appId: "1:380994475321:web:24fbdf9fc63b6573ce84e8",
-  measurementId: "G-SRRBBN1JL8"
+ apiKey: "AIzaSyDlHlR1eTq8bTlL8jrltwFqN8SEtWiE3dk",
+    authDomain: "tiendaelec-50.firebaseapp.com",
+    projectId: "tiendaelec-50",
+    storageBucket: "tiendaelec-50.appspot.com",
+    messagingSenderId: "234121442597",
+    appId: "1:234121442597:web:c5badfa04c02502b3096cc" ,
 });
