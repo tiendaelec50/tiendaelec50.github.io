@@ -8,10 +8,10 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
- apiKey: "AIzaSyDlHlR1eTq8bTlL8jrltwFqN8SEtWiE3dk",
+     apiKey: "AIzaSyDlHlR1eTq8bTlL8jrltwFqN8SEtWiE3dk",
     authDomain: "tiendaelec-50.firebaseapp.com",
     projectId: "tiendaelec-50",
     storageBucket: "tiendaelec-50.appspot.com",
     messagingSenderId: "234121442597",
-    appId: "1:234121442597:web:c5badfa04c02502b3096cc" ,
+    appId: "1:234121442597:web:c5badfa04c02502b3096cc,
 });
