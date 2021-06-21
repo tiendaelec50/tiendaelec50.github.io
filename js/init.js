@@ -13,5 +13,5 @@ firebase.initializeApp({
     projectId: "tiendaelec-50",
     storageBucket: "tiendaelec-50.appspot.com",
     messagingSenderId: "234121442597",
-    appId: "1:234121442597:web:c5badfa04c02502b3096cc,
+    appId: "1:234121442597:web:c5badfa04c02502b3096cc"
 });
